@@ -33,5 +33,11 @@ This project focuses on understanding and predicting customer churn using a comb
 ---
 
 ## 📁 Project Structure
+├── data/ # Raw and preprocessed data
+├── notebooks/ # Jupyter notebooks for EDA, survival analysis, and ML
+├── models/ # Trained model files (optional)
+├── plots/ # Visualizations (KM curves, survival functions, etc.)
+├── src/ # Utility functions or custom modules
+└── README.md # Project documentation
 
 
